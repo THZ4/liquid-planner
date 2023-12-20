@@ -1,4 +1,4 @@
-﻿# liquid-planner
+﻿# Liquid-Planner
  
 # liquid-planner gibt einem die möglichkeit seine Ein -und Ausgaben zu überwachen
 
